@@ -1,0 +1,7 @@
+[
+  { "expenseId": "m1234567-89ab-4cde-8123-456789abcdef", "category": "Salaries", "amount": 60000.0, "timestamp": "2024-11-01T10:00:00.000Z" },
+  { "expenseId": "n2345678-90cd-4ef0-9234-56789abcdef0", "category": "Office", "amount": 1500.0, "timestamp": "2024-11-02T11:00:00.000Z" },
+  { "expenseId": "o3456789-01ef-4f23-a345-6789abcdef12", "category": "Professional", "amount": 3000.0, "timestamp": "2024-11-03T12:00:00.000Z" },
+  { "expenseId": "p4567890-12ef-4f34-b456-789abcdef123", "category": "Salaries", "amount": 55000.0, "timestamp": "2024-11-04T13:00:00.000Z" },
+  { "expenseId": "q5678901-23ef-4f45-c567-89abcdef1234", "category": "Office", "amount": 2000.0, "timestamp": "2024-11-05T14:00:00.000Z" }
+]

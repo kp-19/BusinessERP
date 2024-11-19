@@ -1,0 +1,7 @@
+[
+  { "purchaseId": "h1234567-89ab-4cde-8123-456789abcdef", "productId": "a1234567-89ab-4cde-8123-456789abcdef", "timestamp": "2024-10-28T10:00:00.000Z", "quantity": 10, "unitCost": 1100.0, "totalCost": 11000.0 },
+  { "purchaseId": "i2345678-90cd-4ef0-9234-56789abcdef0", "productId": "b2345678-90cd-4ef0-9234-56789abcdef0", "timestamp": "2024-10-29T11:00:00.000Z", "quantity": 20, "unitCost": 140.0, "totalCost": 2800.0 },
+  { "purchaseId": "j3456789-01ef-4f23-a345-6789abcdef12", "productId": "c3456789-01ef-4f23-a345-6789abcdef12", "timestamp": "2024-10-30T12:00:00.000Z", "quantity": 15, "unitCost": 230.0, "totalCost": 3450.0 },
+  { "purchaseId": "k4567890-12ef-4f34-b456-789abcdef123", "productId": "d4567890-12ef-4f34-b456-789abcdef123", "timestamp": "2024-10-31T13:00:00.000Z", "quantity": 50, "unitCost": 20.0, "totalCost": 1000.0 },
+  { "purchaseId": "l5678901-23ef-4f45-c567-89abcdef1234", "productId": "e5678901-23ef-4f45-c567-89abcdef1234", "timestamp": "2024-11-01T14:00:00.000Z", "quantity": 20, "unitCost": 150.0, "totalCost": 15000.0}
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "purchaseSummaryId": "w3456789-01ef-4f23-a345-6789abcdef12",
+    "totalPurchased": 19450.0, 
+    "changePercentage": 8.0,
+    "date": "2024-11-01T23:59:59.000Z" 
+  },
+  {
+    "purchaseSummaryId": "x4567890-12ef-4f34-b456-789abcdef123",
+    "totalPurchased": 15000.0,
+    "changePercentage": -15.0,
+    "date": "2024-10-31T23:59:59.000Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "eId": "ebf365bc-8a3a-4c6b-8c6c-238e5a42b3f6", "name": "Alice Johnson", "email": "alice@example.com", "contactNo": "1234567890", "salary": 60000 },
+  { "eId": "de6f1fae-5ab3-4b88-9b25-4cfa685af443", "name": "Bob Smith", "email": "bob@example.com", "contactNo": "2345678901", "salary": 50000 },
+  { "eId": "fa73ae8b-9650-4c58-a76b-47692c1d1d5d", "name": "Carol Davis", "email": "carol@example.com", "contactNo": "3456789012", "salary": 55000 },
+  { "eId": "1b93ae6e-9c9b-4e24-84e4-6508c79a6e4f", "name": "David Clark", "email": "david@example.com", "contactNo": "4567890123", "salary": 52000 },
+  { "eId": "2c73ae8b-8650-4f68-b76b-58692c1d1c5c", "name": "Eve Morgan", "email": "eve@example.com", "contactNo": "5678901234", "salary": 58000 }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "expenseSummaryId": "y5678901-23ef-4f45-c567-89abcdef1234",
+    "totalExpenses": 121500.0, 
+    "date": "2024-11-05T23:59:59.000Z"
+  },
+  {
+    "expenseSummaryId": "z6789012-34ef-4f56-d678-90abcdef1234",
+    "totalExpenses": 60000.0,
+    "date": "2024-11-01T23:59:59.000Z"
+  }
+]

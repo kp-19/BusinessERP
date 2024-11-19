@@ -1,0 +1,14 @@
+[
+  {
+    "salesSummaryId": "u1234567-89ab-4cde-8123-456789abcdef",
+    "totalValue": 4330.0, 
+    "changePercentage": 5.0,
+    "date": "2024-11-05T23:59:59.000Z" 
+  },
+  {
+    "salesSummaryId": "v2345678-90cd-4ef0-9234-56789abcdef0",
+    "totalValue": 3000.0,
+    "changePercentage": -10.0,
+    "date": "2024-11-04T23:59:59.000Z"
+  }
+]

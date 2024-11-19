@@ -1,0 +1,44 @@
+[
+  {
+    "expenseByCategoryId": "a1234567-89ab-4cde-8123-456789abcdef",
+    "expenseSummaryId": "y5678901-23ef-4f45-c567-89abcdef1234", 
+    "category": "Salaries",
+    "amount": 115000,
+    "date": "2024-11-05T23:59:59.000Z"
+  },
+  {
+    "expenseByCategoryId": "b2345678-90cd-4ef0-9234-56789abcdef0",
+    "expenseSummaryId": "y5678901-23ef-4f45-c567-89abcdef1234", 
+    "category": "Office",
+    "amount": 3500,
+    "date": "2024-11-05T23:59:59.000Z"
+  },
+  {
+    "expenseByCategoryId": "c3456789-01ef-4f23-a345-6789abcdef12",
+    "expenseSummaryId": "y5678901-23ef-4f45-c567-89abcdef1234", 
+    "category": "Professional",
+    "amount": 3000,
+    "date": "2024-11-05T23:59:59.000Z"
+  },
+  {
+    "expenseByCategoryId": "d4567890-12ef-4f34-b456-789abcdef123",
+    "expenseSummaryId": "z6789012-34ef-4f56-d678-90abcdef1234", 
+    "category": "Salaries",
+    "amount": 58000,
+    "date": "2024-11-01T23:59:59.000Z"
+  },
+  {
+    "expenseByCategoryId": "e5678901-23ef-4f45-c567-89abcdef1234",
+    "expenseSummaryId": "z6789012-34ef-4f56-d678-90abcdef1234", 
+    "category": "Office",
+    "amount": 1000,
+    "date": "2024-11-01T23:59:59.000Z"
+  },
+  {
+    "expenseByCategoryId": "f6789012-34ef-4f56-d678-90abcdef1234",
+    "expenseSummaryId": "z6789012-34ef-4f56-d678-90abcdef1234",
+    "category": "Professional",
+    "amount": 1000,
+    "date": "2024-11-01T23:59:59.000Z"
+  }
+]

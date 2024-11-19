@@ -1,0 +1,7 @@
+[
+  { "saleId": "c1234567-89ab-4cde-8123-456789abcdef", "productId": "a1234567-89ab-4cde-8123-456789abcdef", "timestamp": "2024-11-01T10:15:00.000Z", "quantity": 2, "unitPrice": 1200.0, "totalAmount": 2400.0 },
+  { "saleId": "d2345678-90cd-4ef0-9234-56789abcdef0", "productId": "b2345678-90cd-4ef0-9234-56789abcdef0", "timestamp": "2024-11-02T14:30:00.000Z", "quantity": 5, "unitPrice": 150.0, "totalAmount": 750.0 },
+  { "saleId": "e3456789-01ef-4f23-a345-6789abcdef12", "productId": "c3456789-01ef-4f23-a345-6789abcdef12", "timestamp": "2024-11-03T16:45:00.000Z", "quantity": 3, "unitPrice": 250.0, "totalAmount": 750.0 },
+  { "saleId": "f4567890-12ef-4f34-b456-789abcdef123", "productId": "d4567890-12ef-4f34-b456-789abcdef123", "timestamp": "2024-11-04T18:00:00.000Z", "quantity": 10, "unitPrice": 25.0, "totalAmount": 250.0 },
+  { "saleId": "g5678901-23ef-4f45-c567-89abcdef1234", "productId": "e5678901-23ef-4f45-c567-89abcdef1234", "timestamp": "2024-11-05T20:15:00.000Z", "quantity": 4, "unitPrice": 45.0, "totalAmount": 180.0 }
+]

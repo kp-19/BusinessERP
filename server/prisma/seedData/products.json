@@ -1,0 +1,7 @@
+[
+  { "productId": "a1234567-89ab-4cde-8123-456789abcdef", "name": "Laptop", "price": 1200.0, "rating": 4.5, "stockQuantity": 50, "thumbnailUrl": "https://w7.pngwing.com/pngs/210/256/png-transparent-laptop-laptop-notebook-electronics-netbook-computer.png" },
+  { "productId": "b2345678-90cd-4ef0-9234-56789abcdef0", "name": "Chair", "price": 150.0, "rating": 4.0, "stockQuantity": 200, "thumbnailUrl": "https://w7.pngwing.com/pngs/635/804/png-transparent-gaming-chair-dxracer-caster-padding-gaming-chair-blue-furniture-recliner.png" },
+  { "productId": "c3456789-01ef-4f23-a345-6789abcdef12", "name": "Desk", "price": 250.0, "rating": 4.3, "stockQuantity": 100, "thumbnailUrl": "https://w7.pngwing.com/pngs/479/466/png-transparent-computer-desk-office-desk-chairs-sit-stand-desk-table-desk-accessories-angle-furniture-computer.png" },
+  { "productId": "d4567890-12ef-4f34-b456-789abcdef123", "name": "Mouse", "price": 25.0, "rating": 4.2, "stockQuantity": 300, "thumbnailUrl": "https://w7.pngwing.com/pngs/86/943/png-transparent-computer-mouse-logitech-g305-lightspeed-wireless-gaming-mouse-optical-mouse-computer-mouse-electronics-computer-keyboard-mouse.png" },
+  { "productId": "e5678901-23ef-4f45-c567-89abcdef1234", "name": "Keyboard", "price": 45.0, "rating": 4.0, "stockQuantity": 250, "thumbnailUrl": "https://w7.pngwing.com/pngs/237/738/png-transparent-black-computer-keyboard-computer-keyboard-computer-mouse-computer-hardware-keyboard-shortcut-keyboard-electronics-computer-electronic-device.png" }
+]
